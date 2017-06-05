@@ -1,0 +1,141 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:2:1-63:12
+	package
+		ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:5:5-31
+		INJECTED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:11:22-68
+uses-permission#android.permission.INTERNET
+ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:14:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:16:22-72
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:17:22-76
+uses-permission#android.permission.READ_CONTACTS
+ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:18:5-72
+	android:name
+		ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:18:22-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:19:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:20:5-73
+	android:name
+		ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:20:22-70
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:21:5-80
+	android:name
+		ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:21:22-77
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:22:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:23:22-65
+application
+ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:25:5-61:19
+	android:label
+		ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:27:9-41
+	android:hardwareAccelerated
+		ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:29:9-44
+	android:icon
+		ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:26:9-45
+	android:theme
+		ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:28:9-40
+	android:name
+		ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:30:9-67
+activity#com.iflytek.aiuiproduct.app.MainActivity
+ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:31:9-37:20
+	android:name
+		ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:31:19-74
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:33:17-68
+	android:name
+		ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:35:27-74
+receiver#com.iflytek.aiuiproduct.receiver.NetworkStateReceiver
+ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:38:9-43:20
+	android:name
+		ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:39:13-81
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:40:13-42:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:41:17-79
+	android:name
+		ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:41:25-76
+service#com.iflytek.aiuiproduct.ProductDemoService
+ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:45:9-51:19
+	android:name
+		ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:46:13-70
+intent-filter#com.iflytek.aiuiproduct.action.DemoService
+ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:47:13-50:29
+	android:priority
+		ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:48:17-40
+action#com.iflytek.aiuiproduct.action.DemoService
+ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:49:17-84
+	android:name
+		ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:49:25-82
+service#com.iflytek.aiuiproduct.player.service.MusicService
+ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:53:9-60:19
+	android:process
+		ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:55:13-43
+	android:name
+		ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:54:13-79
+intent-filter#com.iflytek.aiuiproduct.action.MusicService
+ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:56:13-59:29
+	android:priority
+		ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:57:17-40
+action#com.iflytek.aiuiproduct.action.MusicService
+ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:58:17-85
+	android:name
+		ADDED from E:\asworkplace01\AIUIProductDemo\app\src\main\AndroidManifest.xml:58:25-83
